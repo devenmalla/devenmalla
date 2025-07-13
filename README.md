@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Deven Malla. I am currently enrolled in the 7th semester of my Bachelor of Technology program in Information Technology at the School of Engineering and Technology, Nagaland University.</h1>
+<h1 align="center">Hi 👋, I'm Deven Malla</h1>
 <h3 align="center">A passionate Web and App Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devenmalla&label=Profile%20views&color=0e75b6&style=flat" alt="devenmalla" /> </p>
