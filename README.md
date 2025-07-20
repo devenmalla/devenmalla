@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deven Malla</h1>
-<h3 align="center">B.Tech IT'26 | Summer Intern at NIT Manipur | Passionate about Web Development, App Development & Machine Learning</h3>
+<h3 align="center">B.Tech IT Student | Passionate about Web Development, App Development & Machine Learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devenmalla&label=Profile%20views&color=0e75b6&style=flat" alt="devenmalla" /> </p>
 
@@ -23,12 +23,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="deven-malla-710819360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/deven-malla-710819360/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/31084447/deven-malla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/31084447/deven-malla" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/devenmallaofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/devenmallaofficial" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/deven_malla?igsh=mwo5zg9rzxhknzlymg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/deven_malla?igsh=mwo5zg9rzxhknzlymg==" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/devenmallaoffic1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/devenmallaoffic1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/devenmalla/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/devenmalla/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/deven-malla-710819360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deven-malla-710819360" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/deven-malla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="deven-malla" height="30" width="40" /></a>
+<a href="https://kaggle.com/devenmallaofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="devenmallaofficial" height="30" width="40" /></a>
+<a href="https://instagram.com/deven_malla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deven_malla" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/devenmallaoffic1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="devenmallaoffic1" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/devenmalla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="devenmalla" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
