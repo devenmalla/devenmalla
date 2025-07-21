@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Smart College Canteen System Web App**
 
-- 👨‍💻 All of my projects are available at [https://deven-malla-portfolio.vercel.app/](https://deven-malla-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://deven-malla-portfolio.netlify.app/](https://deven-malla-portfolio.netlify.app/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, PHP, MySQL, Python, C/C++**
 
