@@ -83,7 +83,7 @@ B.Tech IT Student | Passionate about Web Development, App Development & Machine 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=devenmalla&theme=algolia&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=devenmalla&theme=onedark&no-frame=true&row=1&column=7" />
 </p>
 
 ---
@@ -91,11 +91,9 @@ B.Tech IT Student | Passionate about Web Development, App Development & Machine 
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=devenmalla&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devenmalla&layout=compact&theme=tokyonight&hide_border=true" />
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devenmalla&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devenmalla&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
@@ -103,7 +101,7 @@ B.Tech IT Student | Passionate about Web Development, App Development & Machine 
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=devenmalla&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=devenmalla&theme=tokyonight" />
 </p>
 
 ---
