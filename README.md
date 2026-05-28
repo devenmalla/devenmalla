@@ -1,7 +1,8 @@
+````md
 <h1 align="center">Hi 👋, I'm Deven Malla</h1>
 
 <h3 align="center">
-B.Tech IT Student | Passionate about Web Development, App Development & Machine Learning
+B.Tech IT | Full-Stack Developer | Mobile App Developer | AI/ML Enthusiast
 </h3>
 
 <p align="center">
@@ -16,7 +17,7 @@ B.Tech IT Student | Passionate about Web Development, App Development & Machine 
 - 🌱 Currently learning **MERN Stack, React Native & AI/ML**
 - 👯 Looking to collaborate on **Web Development, App Development & AI/ML Projects**
 - 🤝 Looking for help with **AI/ML Projects**
-- 💬 Ask me about **HTML, CSS, JavaScript, React, PHP, MySQL, Python, C/C++**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, React Native, PHP, MySQL, Python, C/C++**
 - ⚡ Fun fact: **I enjoy building things efficiently and always aim to complete tasks with precision and attention to detail.**
 
 ---
@@ -31,6 +32,7 @@ B.Tech IT Student | Passionate about Web Development, App Development & Machine 
 ## 📫 Connect With Me
 
 <p align="center">
+
 <a href="https://linkedin.com/in/deven-malla-710819360" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
@@ -54,6 +56,7 @@ B.Tech IT Student | Passionate about Web Development, App Development & Machine 
 <a href="https://leetcode.com/devenmalla" target="_blank">
 <img src="https://cdn.simpleicons.org/leetcode" height="50"/>
 </a>
+
 </p>
 
 ---
@@ -68,6 +71,7 @@ B.Tech IT Student | Passionate about Web Development, App Development & Machine 
 <img src="https://skillicons.dev/icons?i=css" />
 <img src="https://skillicons.dev/icons?i=js" />
 <img src="https://skillicons.dev/icons?i=react" />
+<img src="https://reactnative.dev/img/header_logo.svg" width="48" height="48" alt="React Native" />
 <img src="https://skillicons.dev/icons?i=tailwind" />
 <img src="https://skillicons.dev/icons?i=php" />
 <img src="https://skillicons.dev/icons?i=mysql" />
@@ -83,17 +87,17 @@ B.Tech IT Student | Passionate about Web Development, App Development & Machine 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=devenmalla&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devenmalla&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devenmalla&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devenmalla&layout=compact&theme=radical" />
-</p>
+---
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=devenmalla&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=devenmalla&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -112,3 +116,4 @@ B.Tech IT Student | Passionate about Web Development, App Development & Machine 
 <h3 align="center">
 ⭐️ Thanks for visiting my profile! ⭐️
 </h3>
+````
